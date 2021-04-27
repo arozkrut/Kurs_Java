@@ -1,0 +1,416 @@
+lis 20, 2018 12:29:52 AM narzedzia.Wyrazenie obliczONP
+INFO: Dodane na stos wartość 1.0
+lis 20, 2018 12:29:52 AM narzedzia.Wyrazenie obliczONP
+INFO: Dodane na stos wartość 2.0
+lis 20, 2018 12:29:52 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano wartość ze stosu
+lis 20, 2018 12:29:52 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano wartość ze stosu
+lis 20, 2018 12:29:52 AM narzedzia.Wyrazenie obliczONP
+INFO: Dodane na stos wartość 1.0
+lis 20, 2018 12:29:52 AM narzedzia.Wyrazenie obliczONP
+INFO: Obliczono wartość wyrażenia ONP
+lis 20, 2018 12:33:08 AM narzedzia.Wyrazenie obliczONP
+INFO: Obliczono wartość wyrażenia ONP
+lis 20, 2018 12:35:10 AM narzedzia.Wyrazenie obliczONP
+INFO: Dodane na stos wartość 1.0
+lis 20, 2018 12:35:10 AM narzedzia.Wyrazenie obliczONP
+INFO: Dodane na stos wartość 2.0
+lis 20, 2018 12:35:10 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano wartość ze stosu
+lis 20, 2018 12:35:10 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano wartość ze stosu
+lis 20, 2018 12:35:10 AM narzedzia.Wyrazenie obliczONP
+INFO: Dodane na stos wartość 1.0
+lis 20, 2018 12:35:10 AM narzedzia.Wyrazenie obliczONP
+INFO: Obliczono wartość wyrażenia ONP
+lis 20, 2018 12:36:03 AM narzedzia.Wyrazenie obliczONP
+INFO: Dodane na stos wartość 1.0
+lis 20, 2018 12:36:03 AM narzedzia.Wyrazenie obliczONP
+INFO: Obliczono wartość wyrażenia ONP
+lis 20, 2018 12:48:50 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano z kolejki funkcję 1.0
+lis 20, 2018 12:48:50 AM narzedzia.Wyrazenie obliczONP
+INFO: Dodano na stos wartość 1.0
+lis 20, 2018 12:48:50 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano z kolejki funkcję 2.0
+lis 20, 2018 12:48:50 AM narzedzia.Wyrazenie obliczONP
+INFO: Dodano na stos wartość 2.0
+lis 20, 2018 12:48:50 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano z kolejki funkcję 0.0^0.0
+lis 20, 2018 12:48:50 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano wartość 2.0 ze stosu
+lis 20, 2018 12:48:50 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano wartość 1.0 ze stosu
+lis 20, 2018 12:48:50 AM narzedzia.Wyrazenie obliczONP
+INFO: Dodano na stos wartość 1.0
+lis 20, 2018 12:48:50 AM narzedzia.Wyrazenie obliczONP
+INFO: Obliczono wartość wyrażenia ONP: 1.0
+lis 20, 2018 12:49:05 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano z kolejki funkcję a
+lis 20, 2018 12:49:05 AM narzedzia.Wyrazenie obliczONP
+INFO: Dodano na stos wartość 1.0
+lis 20, 2018 12:49:05 AM narzedzia.Wyrazenie obliczONP
+INFO: Obliczono wartość wyrażenia ONP: 1.0
+lis 20, 2018 12:49:32 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano z kolejki funkcję b
+lis 20, 2018 12:49:32 AM narzedzia.Wyrazenie obliczONP
+INFO: Dodano na stos wartość 1.0
+lis 20, 2018 12:49:32 AM narzedzia.Wyrazenie obliczONP
+INFO: Obliczono wartość wyrażenia ONP: 1.0
+lis 20, 2018 12:49:41 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano z kolejki funkcję c
+lis 20, 2018 12:49:41 AM narzedzia.Wyrazenie obliczONP
+INFO: Dodano na stos wartość 1.0
+lis 20, 2018 12:49:41 AM narzedzia.Wyrazenie obliczONP
+INFO: Obliczono wartość wyrażenia ONP: 1.0
+lis 20, 2018 12:50:23 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano z kolejki funkcję 2.0
+lis 20, 2018 12:50:23 AM narzedzia.Wyrazenie obliczONP
+INFO: Dodano na stos wartość 2.0
+lis 20, 2018 12:50:23 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano z kolejki funkcję π
+lis 20, 2018 12:50:23 AM narzedzia.Wyrazenie obliczONP
+INFO: Dodano na stos wartość 3.141592653589793
+lis 20, 2018 12:50:23 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano z kolejki funkcję narzedzia.Symbol
+lis 20, 2018 12:50:23 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano wartość 3.141592653589793 ze stosu
+lis 20, 2018 12:50:23 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano wartość 2.0 ze stosu
+lis 20, 2018 12:50:23 AM narzedzia.Wyrazenie obliczONP
+INFO: Dodano na stos wartość 6.283185307179586
+lis 20, 2018 12:50:23 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano z kolejki funkcję sin(0.0)
+lis 20, 2018 12:50:23 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano wartość 6.283185307179586 ze stosu
+lis 20, 2018 12:50:23 AM narzedzia.Wyrazenie obliczONP
+INFO: Dodano na stos wartość -2.4492935982947064E-16
+lis 20, 2018 12:50:23 AM narzedzia.Wyrazenie obliczONP
+INFO: Obliczono wartość wyrażenia ONP: -2.4492935982947064E-16
+lis 20, 2018 12:51:31 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano z kolejki funkcję 1.0
+lis 20, 2018 12:51:31 AM narzedzia.Wyrazenie obliczONP
+INFO: Dodano na stos wartość 1.0
+lis 20, 2018 12:51:31 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano z kolejki funkcję 2.0
+lis 20, 2018 12:51:31 AM narzedzia.Wyrazenie obliczONP
+INFO: Dodano na stos wartość 2.0
+lis 20, 2018 12:51:31 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano z kolejki funkcję 0.0+0.0
+lis 20, 2018 12:51:31 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano wartość 2.0 ze stosu
+lis 20, 2018 12:51:31 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano wartość 1.0 ze stosu
+lis 20, 2018 12:51:31 AM narzedzia.Wyrazenie obliczONP
+INFO: Dodano na stos wartość 3.0
+lis 20, 2018 12:51:31 AM narzedzia.Wyrazenie obliczONP
+INFO: Obliczono wartość wyrażenia ONP: 3.0
+lis 20, 2018 12:52:30 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano z kolejki funkcję 2.0
+lis 20, 2018 12:52:30 AM narzedzia.Wyrazenie obliczONP
+INFO: Dodano na stos wartość 2.0
+lis 20, 2018 12:52:30 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano z kolejki funkcję 7.0
+lis 20, 2018 12:52:30 AM narzedzia.Wyrazenie obliczONP
+INFO: Dodano na stos wartość 7.0
+lis 20, 2018 12:52:30 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano z kolejki funkcję 0.0+0.0
+lis 20, 2018 12:52:30 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano wartość 7.0 ze stosu
+lis 20, 2018 12:52:30 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano wartość 2.0 ze stosu
+lis 20, 2018 12:52:30 AM narzedzia.Wyrazenie obliczONP
+INFO: Dodano na stos wartość 9.0
+lis 20, 2018 12:52:30 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano z kolejki funkcję 3.0
+lis 20, 2018 12:52:30 AM narzedzia.Wyrazenie obliczONP
+INFO: Dodano na stos wartość 3.0
+lis 20, 2018 12:52:30 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano z kolejki funkcję narzedzia.Symbol
+lis 20, 2018 12:52:30 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano wartość 3.0 ze stosu
+lis 20, 2018 12:52:30 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano wartość 9.0 ze stosu
+lis 20, 2018 12:52:30 AM narzedzia.Wyrazenie obliczONP
+INFO: Dodano na stos wartość 3.0
+lis 20, 2018 12:52:30 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano z kolejki funkcję 14.0
+lis 20, 2018 12:52:30 AM narzedzia.Wyrazenie obliczONP
+INFO: Dodano na stos wartość 14.0
+lis 20, 2018 12:52:30 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano z kolejki funkcję 3.0
+lis 20, 2018 12:52:30 AM narzedzia.Wyrazenie obliczONP
+INFO: Dodano na stos wartość 3.0
+lis 20, 2018 12:52:30 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano z kolejki funkcję narzedzia.Symbol
+lis 20, 2018 12:52:30 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano wartość 3.0 ze stosu
+lis 20, 2018 12:52:30 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano wartość 14.0 ze stosu
+lis 20, 2018 12:52:30 AM narzedzia.Wyrazenie obliczONP
+INFO: Dodano na stos wartość 4.666666666666667
+lis 20, 2018 12:52:30 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano z kolejki funkcję 4.0
+lis 20, 2018 12:52:30 AM narzedzia.Wyrazenie obliczONP
+INFO: Dodano na stos wartość 4.0
+lis 20, 2018 12:52:30 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano z kolejki funkcję narzedzia.Symbol
+lis 20, 2018 12:52:30 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano wartość 4.0 ze stosu
+lis 20, 2018 12:52:30 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano wartość 4.666666666666667 ze stosu
+lis 20, 2018 12:52:30 AM narzedzia.Wyrazenie obliczONP
+INFO: Dodano na stos wartość 18.666666666666668
+lis 20, 2018 12:52:30 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano z kolejki funkcję 0.0+0.0
+lis 20, 2018 12:52:30 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano wartość 18.666666666666668 ze stosu
+lis 20, 2018 12:52:30 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano wartość 3.0 ze stosu
+lis 20, 2018 12:52:30 AM narzedzia.Wyrazenie obliczONP
+INFO: Dodano na stos wartość 21.666666666666668
+lis 20, 2018 12:52:30 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano z kolejki funkcję 2.0
+lis 20, 2018 12:52:30 AM narzedzia.Wyrazenie obliczONP
+INFO: Dodano na stos wartość 2.0
+lis 20, 2018 12:52:30 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano z kolejki funkcję narzedzia.Symbol
+lis 20, 2018 12:52:30 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano wartość 2.0 ze stosu
+lis 20, 2018 12:52:30 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano wartość 21.666666666666668 ze stosu
+lis 20, 2018 12:52:30 AM narzedzia.Wyrazenie obliczONP
+INFO: Dodano na stos wartość 10.833333333333334
+lis 20, 2018 12:52:30 AM narzedzia.Wyrazenie obliczONP
+INFO: Obliczono wartość wyrażenia ONP: 10.833333333333334
+lis 20, 2018 1:01:28 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano z kolejki symbol 2.0
+lis 20, 2018 1:01:28 AM narzedzia.Wyrazenie obliczONP
+INFO: Dodano na stos wartość 2.0
+lis 20, 2018 1:01:28 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano z kolejki symbol 7.0
+lis 20, 2018 1:01:28 AM narzedzia.Wyrazenie obliczONP
+INFO: Dodano na stos wartość 7.0
+lis 20, 2018 1:01:28 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano z kolejki symbol 0.0+0.0
+lis 20, 2018 1:01:28 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano wartość 7.0 ze stosu
+lis 20, 2018 1:01:28 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano wartość 2.0 ze stosu
+lis 20, 2018 1:01:28 AM narzedzia.Wyrazenie obliczONP
+INFO: Dodano na stos wartość 9.0
+lis 20, 2018 1:01:28 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano z kolejki symbol 3.0
+lis 20, 2018 1:01:28 AM narzedzia.Wyrazenie obliczONP
+INFO: Dodano na stos wartość 3.0
+lis 20, 2018 1:01:28 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano z kolejki symbol 0.0/0.0
+lis 20, 2018 1:01:28 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano wartość 3.0 ze stosu
+lis 20, 2018 1:01:28 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano wartość 9.0 ze stosu
+lis 20, 2018 1:01:28 AM narzedzia.Wyrazenie obliczONP
+INFO: Dodano na stos wartość 3.0
+lis 20, 2018 1:01:28 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano z kolejki symbol 14.0
+lis 20, 2018 1:01:28 AM narzedzia.Wyrazenie obliczONP
+INFO: Dodano na stos wartość 14.0
+lis 20, 2018 1:01:28 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano z kolejki symbol 3.0
+lis 20, 2018 1:01:28 AM narzedzia.Wyrazenie obliczONP
+INFO: Dodano na stos wartość 3.0
+lis 20, 2018 1:01:28 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano z kolejki symbol 0.0-0.0
+lis 20, 2018 1:01:28 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano wartość 3.0 ze stosu
+lis 20, 2018 1:01:28 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano wartość 14.0 ze stosu
+lis 20, 2018 1:01:28 AM narzedzia.Wyrazenie obliczONP
+INFO: Dodano na stos wartość 11.0
+lis 20, 2018 1:01:28 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano z kolejki symbol 4.0
+lis 20, 2018 1:01:28 AM narzedzia.Wyrazenie obliczONP
+INFO: Dodano na stos wartość 4.0
+lis 20, 2018 1:01:28 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano z kolejki symbol 0.0*0.0
+lis 20, 2018 1:01:28 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano wartość 4.0 ze stosu
+lis 20, 2018 1:01:28 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano wartość 11.0 ze stosu
+lis 20, 2018 1:01:28 AM narzedzia.Wyrazenie obliczONP
+INFO: Dodano na stos wartość 44.0
+lis 20, 2018 1:01:28 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano z kolejki symbol 0.0+0.0
+lis 20, 2018 1:01:28 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano wartość 44.0 ze stosu
+lis 20, 2018 1:01:28 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano wartość 3.0 ze stosu
+lis 20, 2018 1:01:28 AM narzedzia.Wyrazenie obliczONP
+INFO: Dodano na stos wartość 47.0
+lis 20, 2018 1:01:28 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano z kolejki symbol 2.0
+lis 20, 2018 1:01:28 AM narzedzia.Wyrazenie obliczONP
+INFO: Dodano na stos wartość 2.0
+lis 20, 2018 1:01:28 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano z kolejki symbol 0.0/0.0
+lis 20, 2018 1:01:28 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano wartość 2.0 ze stosu
+lis 20, 2018 1:01:28 AM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano wartość 47.0 ze stosu
+lis 20, 2018 1:01:28 AM narzedzia.Wyrazenie obliczONP
+INFO: Dodano na stos wartość 23.5
+lis 20, 2018 1:01:28 AM narzedzia.Wyrazenie obliczONP
+INFO: Obliczono wartość wyrażenia ONP: 23.5
+lis 21, 2018 3:18:02 PM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano z kolejki symbol 1.0
+lis 21, 2018 3:18:02 PM narzedzia.Wyrazenie obliczONP
+INFO: Dodano na stos wartość 1.0
+lis 21, 2018 3:18:02 PM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano z kolejki symbol 2.0
+lis 21, 2018 3:18:02 PM narzedzia.Wyrazenie obliczONP
+INFO: Dodano na stos wartość 2.0
+lis 21, 2018 3:18:02 PM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano z kolejki symbol 3.0
+lis 21, 2018 3:18:02 PM narzedzia.Wyrazenie obliczONP
+INFO: Dodano na stos wartość 3.0
+lis 21, 2018 3:18:02 PM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano z kolejki symbol 0.0+0.0
+lis 21, 2018 3:18:02 PM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano wartość 3.0 ze stosu
+lis 21, 2018 3:18:02 PM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano wartość 2.0 ze stosu
+lis 21, 2018 3:18:02 PM narzedzia.Wyrazenie obliczONP
+INFO: Dodano na stos wartość 5.0
+lis 21, 2018 3:18:02 PM narzedzia.Wyrazenie obliczONP
+SEVERE: Wyrzucono wyjątek: Wyjątek ONP: Błędne wyrażenie
+lis 21, 2018 3:18:16 PM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano z kolejki symbol 1.0
+lis 21, 2018 3:18:16 PM narzedzia.Wyrazenie obliczONP
+INFO: Dodano na stos wartość 1.0
+lis 21, 2018 3:18:16 PM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano z kolejki symbol 2.0
+lis 21, 2018 3:18:16 PM narzedzia.Wyrazenie obliczONP
+INFO: Dodano na stos wartość 2.0
+lis 21, 2018 3:18:16 PM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano z kolejki symbol 0.0^0.0
+lis 21, 2018 3:18:16 PM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano wartość 2.0 ze stosu
+lis 21, 2018 3:18:16 PM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano wartość 1.0 ze stosu
+lis 21, 2018 3:18:16 PM narzedzia.Wyrazenie obliczONP
+INFO: Dodano na stos wartość 1.0
+lis 21, 2018 3:18:16 PM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano z kolejki symbol 0.0+0.0
+lis 21, 2018 3:18:16 PM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano wartość 1.0 ze stosu
+lis 21, 2018 3:18:16 PM narzedzia.Wyrazenie obliczONP
+SEVERE: Wyrzucono wyjątek: Wyjątek ONP: Stos jest pusty
+lis 21, 2018 3:33:22 PM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano z kolejki symbol 1.0
+lis 21, 2018 3:33:23 PM narzedzia.Wyrazenie obliczONP
+INFO: Dodano na stos wartość 1.0
+lis 21, 2018 3:33:23 PM narzedzia.Wyrazenie obliczONP
+INFO: Obliczono wartość wyrażenia ONP: 1.0
+lis 21, 2018 3:33:30 PM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano z kolejki symbol a
+lis 21, 2018 3:33:30 PM narzedzia.Wyrazenie obliczONP
+INFO: Dodano na stos wartość 1.0
+lis 21, 2018 3:33:30 PM narzedzia.Wyrazenie obliczONP
+INFO: Obliczono wartość wyrażenia ONP: 1.0
+lis 21, 2018 3:38:33 PM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano z kolejki symbol 1.0
+lis 21, 2018 3:38:33 PM narzedzia.Wyrazenie obliczONP
+INFO: Dodano na stos wartość 1.0
+lis 21, 2018 3:38:33 PM narzedzia.Wyrazenie obliczONP
+INFO: Obliczono wartość wyrażenia ONP: 1.0
+lis 21, 2018 3:38:36 PM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano z kolejki symbol a
+lis 21, 2018 3:38:36 PM narzedzia.Wyrazenie obliczONP
+INFO: Dodano na stos wartość 1.0
+lis 21, 2018 3:38:36 PM narzedzia.Wyrazenie obliczONP
+INFO: Obliczono wartość wyrażenia ONP: 1.0
+lis 21, 2018 3:41:22 PM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano z kolejki symbol 1.0
+lis 21, 2018 3:41:22 PM narzedzia.Wyrazenie obliczONP
+INFO: Dodano na stos wartość 1.0
+lis 21, 2018 3:41:22 PM narzedzia.Wyrazenie obliczONP
+INFO: Obliczono wartość wyrażenia ONP: 1.0
+lis 21, 2018 3:41:25 PM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano z kolejki symbol a
+lis 21, 2018 3:41:25 PM narzedzia.Wyrazenie obliczONP
+INFO: Dodano na stos wartość 1.0
+lis 21, 2018 3:41:25 PM narzedzia.Wyrazenie obliczONP
+INFO: Obliczono wartość wyrażenia ONP: 1.0
+lis 21, 2018 3:41:28 PM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano z kolejki symbol b
+lis 21, 2018 3:41:28 PM narzedzia.Wyrazenie obliczONP
+INFO: Dodano na stos wartość 1.0
+lis 21, 2018 3:41:28 PM narzedzia.Wyrazenie obliczONP
+INFO: Obliczono wartość wyrażenia ONP: 1.0
+lis 21, 2018 3:41:57 PM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano z kolejki symbol a
+lis 21, 2018 3:41:57 PM narzedzia.Wyrazenie obliczONP
+INFO: Dodano na stos wartość 1.0
+lis 21, 2018 3:41:57 PM narzedzia.Wyrazenie obliczONP
+INFO: Obliczono wartość wyrażenia ONP: 1.0
+lis 21, 2018 3:42:56 PM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano z kolejki symbol 1.0
+lis 21, 2018 3:42:56 PM narzedzia.Wyrazenie obliczONP
+INFO: Dodano na stos wartość 1.0
+lis 21, 2018 3:42:56 PM narzedzia.Wyrazenie obliczONP
+INFO: Obliczono wartość wyrażenia ONP: 1.0
+lis 21, 2018 4:32:02 PM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano z kolejki symbol 2.0
+lis 21, 2018 4:32:02 PM narzedzia.Wyrazenie obliczONP
+INFO: Dodano na stos wartość 2.0
+lis 21, 2018 4:32:02 PM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano z kolejki symbol 3.0
+lis 21, 2018 4:32:02 PM narzedzia.Wyrazenie obliczONP
+INFO: Dodano na stos wartość 3.0
+lis 21, 2018 4:32:02 PM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano z kolejki symbol 0.0+0.0
+lis 21, 2018 4:32:02 PM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano wartość 3.0 ze stosu
+lis 21, 2018 4:32:02 PM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano wartość 2.0 ze stosu
+lis 21, 2018 4:32:02 PM narzedzia.Wyrazenie obliczONP
+INFO: Dodano na stos wartość 5.0
+lis 21, 2018 4:32:02 PM narzedzia.Wyrazenie obliczONP
+INFO: Obliczono wartość wyrażenia ONP: 5.0
+lis 21, 2018 4:32:09 PM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano z kolejki symbol x
+lis 21, 2018 4:32:09 PM narzedzia.Wyrazenie obliczONP
+INFO: Dodano na stos wartość 5.0
+lis 21, 2018 4:32:09 PM narzedzia.Wyrazenie obliczONP
+INFO: Obliczono wartość wyrażenia ONP: 5.0
+lis 21, 2018 4:32:27 PM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano z kolejki symbol 1.0
+lis 21, 2018 4:32:27 PM narzedzia.Wyrazenie obliczONP
+INFO: Dodano na stos wartość 1.0
+lis 21, 2018 4:32:27 PM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano z kolejki symbol x
+lis 21, 2018 4:32:27 PM narzedzia.Wyrazenie obliczONP
+INFO: Dodano na stos wartość 5.0
+lis 21, 2018 4:32:27 PM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano z kolejki symbol 5.0
+lis 21, 2018 4:32:27 PM narzedzia.Wyrazenie obliczONP
+INFO: Dodano na stos wartość 5.0
+lis 21, 2018 4:32:27 PM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano z kolejki symbol 0.0-0.0
+lis 21, 2018 4:32:27 PM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano wartość 5.0 ze stosu
+lis 21, 2018 4:32:27 PM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano wartość 5.0 ze stosu
+lis 21, 2018 4:32:27 PM narzedzia.Wyrazenie obliczONP
+INFO: Dodano na stos wartość 0.0
+lis 21, 2018 4:32:27 PM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano z kolejki symbol 0.0/0.0
+lis 21, 2018 4:32:27 PM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano wartość 0.0 ze stosu
+lis 21, 2018 4:32:27 PM narzedzia.Wyrazenie obliczONP
+INFO: Pobrano wartość 1.0 ze stosu
+lis 21, 2018 4:32:27 PM narzedzia.Wyrazenie obliczONP
+INFO: Dodano na stos wartość Infinity
+lis 21, 2018 4:32:27 PM narzedzia.Wyrazenie obliczONP
+INFO: Obliczono wartość wyrażenia ONP: Infinity
